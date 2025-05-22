@@ -15,7 +15,6 @@ Welcome to **Week 2** of our Java learning journey! This week, we delve into the
   - [Day 6: Encapsulation](#day-6-encapsulation)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
-- [Next Steps](#next-steps)
 
 ---
 
